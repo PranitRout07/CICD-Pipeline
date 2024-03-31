@@ -50,3 +50,7 @@ func TestQuerry(t *testing.T) {
 	// 	t.Errorf("Expected temperature 7°C, got %f°C", data.Main.Kelvin)
 	// }
 }
+
+
+
+
