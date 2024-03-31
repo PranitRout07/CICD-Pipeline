@@ -1,4 +1,4 @@
-<img width="1280" alt="blackbox exporter dashboard 1" src="https://github.com/PranitRout07/CICD-Pipeline/assets/102309095/8c4b30e8-15fe-47ee-b993-bbbc33d9e16e"># STEPS FOLLOWED FOR THE ENTIRE CICD PIPELINE SETUP
+# STEPS FOLLOWED FOR THE ENTIRE CICD PIPELINE SETUP
 
 #### 1) Created two github repositories. 
 One repository to store the code and another repository to store the manifest files . The manifest repo is a private repository .  
